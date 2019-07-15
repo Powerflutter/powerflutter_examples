@@ -4,7 +4,7 @@ Examples for the Powerflutter Framework.
 
 ## Getting Started
 
-How does [Powerflutter](https://github.com/Powerflutter/powerflutter) work? Here is an example how to use the dependecy injection, setup a model that automatically updates the UI and can be saved and loaded to shared preferences with a single line of code.
+How does [Powerflutter](https://github.com/Powerflutter/powerflutter) work? Here is an example how to use the dependency injection, setup a model that automatically updates the UI and can be saved and loaded to shared preferences with a single line of code.
 
 First lets look into the setup, which is called in your main method and fairly simple
 
